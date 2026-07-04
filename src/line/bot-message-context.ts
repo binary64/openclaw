@@ -97,7 +97,7 @@ function resolveLineInboundRoute(params: {
 
 // Common LINE sticker package descriptions
 const STICKER_PACKAGES: Record<string, string> = {
-  "1": "Moon & James",
+  "1": "Household chat",
   "2": "Cony & Brown",
   "3": "Brown & Friends",
   "4": "Moon Special",
